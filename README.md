@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Guilherme Moret Pereira da Silva, YOB '94, Brazilian.
 - 👀 I’m a Software Engineering Student, insterested in Automation Software Development.
-- 🌱 Currently working on processes automations development at [Grupo Rovema's SSC](https://gruporovema.com.br/csc)
-- 📚 Studying Machine Learning and AI Engineering on Coursera
-- 👨‍💻 Collaborating on projects as a freelance RPA and Full Stack Developer.
+- 🌱 Currently working as RPA Analyst and Developer at [Grupo Rovema's SSC](https://gruporovema.com.br/csc)
+- 🖥️ You can see my portfolio [here](https://guimoret-portfolio.netlify.app)
+- 👨‍💻 Collaborating on projects as a freelance RPA and/or Full Stack Developer.
 - 📫 You can contact me through [my email](mailto:guilherme.moret.ps@gmail.com) or phone number: **+55 69 98428 2019**
 
 <!---
